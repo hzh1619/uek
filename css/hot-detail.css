@@ -181,6 +181,10 @@
 	height: 3.6rem;
 	background: #474747;
 }
+.body1 .con .hui img{
+	width: 100%;
+	height: 100%;
+}
 .body1 .con .share{
 	width: 100%;
 	height: 0.9rem;

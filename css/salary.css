@@ -78,6 +78,10 @@
 	float:left;
 	background: #c8c8c8;
 }
+.body1 .con .photo img{
+	width: 100%;
+	height: 100%;
+}
 .body1 .con .introduce{
 	height: 100%;
 }
